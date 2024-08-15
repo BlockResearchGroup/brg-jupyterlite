@@ -1,3 +1,6 @@
+# Ignore content/data folder
+content/data/
+
 *.bundle.*
 lib/
 node_modules/
