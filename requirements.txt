@@ -32,6 +32,6 @@ compas_ags
 compas_dr
 compas_fd
 compas_model
-compas_dem
+# compas_dem
 compas_tna
 compas_notebook
