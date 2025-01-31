@@ -47,12 +47,11 @@ ipyleaflet
 pythreejs>=2.3.0
 
 # BRG packages
-shapely
 
 compas_ags
 compas_dr
 compas_fd
-compas_model
-compas_dem
+# compas_model
+# compas_dem
 compas_tna
 compas_notebook
