@@ -48,6 +48,7 @@ pythreejs>=2.3.0
 
 # BRG packages
 
+compas
 compas_ags
 compas_dr
 compas_fd
